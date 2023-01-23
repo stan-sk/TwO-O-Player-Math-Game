@@ -7,3 +7,4 @@ Both players start with 3 lives. They lose a life if they mis-answer a question.
 The game doesn’t end until one of the players loses all their lives. At this point, the game should announce who won and what the other player’s score is.
 
 
+![TwoPlayersMathGame](https://github.com/stan-sk/TwO-O-Player-Math-Game/blob/main/docs/TwoPlayersMathGame.png)
